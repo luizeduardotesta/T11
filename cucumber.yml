@@ -1,0 +1,8 @@
+default: -p pretty -p disabled -p html -p develop
+
+pretty: --format pretty
+disabled: --publish-quiet
+html: --format html --out=report.html
+
+develop: ENVIRONMENT=develop
+production: ENVIRONMENT=production -p disabled

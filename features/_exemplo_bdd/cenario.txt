@@ -1,0 +1,15 @@
+#language: pt
+
+Funcionalidade: Home
+
+Cenario: Acessar o menu Sobre
+
+Dado que eu acesse a pagina home da consultoria
+Quando clico no menu Sobre
+Então devo ser redirecionado para a sessão Sobre
+
+Cenario: Acessar o menu Serviços
+
+Dado que eu acesse a pagina home da consultoria
+Quando clico no menu "Serviços"
+Então devo ser redirecionado para a sessão "Serviços"
