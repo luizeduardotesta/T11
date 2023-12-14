@@ -9,9 +9,9 @@
             Então devo ser redirecionado para a sessão <sessao>
 
             Exemplos:
-            | menu_item        | sessao            |
-            | 'Sobre'          | 'Sobre nós'       |
-            | 'Serviços'       | 'Serviços'        |
-            | 'Conexões'       | 'Conexões '       |
-            | 'Reconhecimento' | 'Reconhecimento ' |
-            | 'Fale Conosco'   | 'Fale Conosco'    |
+            | menu_item        | sessao           |
+            | 'Sobre'          | 'Sobre nós'      |
+            | 'Serviços'       | 'Serviços'       |
+            | 'Conexões'       | 'Conexões'       |
+            | 'Reconhecimento' | 'Reconhecimento' |
+            | 'Fale Conosco'   | 'Fale Conosco'   |
